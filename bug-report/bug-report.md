@@ -6,7 +6,7 @@
 
 ## Данный баг незначительный, но нужно исправить.
 
-<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/ee04bd54-37e9-4685-ac71-005cf2e7c7e7" />
+<img width="285" height="673" alt="image" src="https://github.com/user-attachments/assets/76fd9304-572e-4fb0-886a-c761e71d9764" />
 
 #  Данная вкладка не закрывается вовсе!!!(image-1.png)
 
