@@ -16,6 +16,8 @@
 
 ## Этот баг мешает в использовании.
 
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/cf6e08dc-cb56-490a-a933-6e9f2cdb8f81" />
+
 #  Появляется спустя 6 секунд (image-2.png)
 
 ## Уровень критичности - S5
