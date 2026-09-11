@@ -7,7 +7,7 @@
 ## Данный баг незначительный, но нужно исправить.
 
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/ee04bd54-37e9-4685-ac71-005cf2e7c7e7" />
-<br/>
+
 #  Данная вкладка не закрывается вовсе!!!(image-1.png)
 
 ## Уровень критичности - S1
