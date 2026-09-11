@@ -35,3 +35,6 @@
 ## Жизненный цикл бага - P2
 
 ## Сохраняется (качается) совсем другое изображение, меняется разрешение фото.
+
+<img width="776" height="365" alt="image" src="https://github.com/user-attachments/assets/7112912c-3198-43bc-953d-28cfd058fce7" />
+
