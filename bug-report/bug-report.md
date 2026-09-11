@@ -26,6 +26,8 @@
 
 ## Баг вовсе не имеет смысла, назвать багом тяжело.
 
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/e9ed8953-4d0a-42b2-994d-1acdabd8fe79" />
+
 #  Скачивается не то, что нужно (image-3.png)
 
 ## Уровень критичности - S1
